@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> matches the snapshot 1`] = `
+<div>
+  <footer
+    class="makeStyles-root-4"
+  >
+    <div>
+      <p
+        class="MuiTypography-root MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignCenter"
+      >
+        Powered by
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-swapiHeader-5 MuiTypography-body1 MuiTypography-alignCenter"
+      >
+        SWAPI
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignCenter"
+      >
+        The Star Wars API
+      </p>
+    </div>
+  </footer>
+</div>
+`;

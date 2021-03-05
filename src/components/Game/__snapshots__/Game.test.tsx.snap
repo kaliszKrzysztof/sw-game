@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Game /> should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiBox-root MuiBox-root-7"
+  >
+    <div
+      class="MuiContainer-root MuiContainer-maxWidthMd"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-8"
+      >
+        <h4
+          class="MuiTypography-root MuiTypography-h4"
+          data-testid="score1"
+        >
+          0
+        </h4>
+        <h4
+          class="MuiTypography-root MuiTypography-h4"
+          data-testid="score2"
+        >
+          0
+        </h4>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-9"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-fullWidth"
+          data-testid="play"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Play the game
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-10"
+      >
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSizeLarge MuiButton-sizeLarge Mui-disabled MuiButton-fullWidth Mui-disabled"
+          data-testid="reset"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Reset scores
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
